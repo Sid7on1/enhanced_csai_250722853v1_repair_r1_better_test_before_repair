@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.AI_2507.22853v1_Repair_R1_Better_Test_Before_Repair",
+  "project_type": "agent",
+  "completion_time": "2025-07-31T22:32:54.962315",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.AI_2507.22853v1_Repair_R1_Better_Test_Before_Repair"
+}
